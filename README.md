@@ -1,4 +1,3 @@
-# johnfrontendz
 
 ## Build Setup
 
